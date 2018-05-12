@@ -9,7 +9,7 @@
 - You cannot play game using your mouse.
 - Your task is to move along the given pane without being hit by the enemies and reach the blue pane.
 - You will be given maximum of 3 chances to cross the enemies pane without being hit.
-- Every time you get hit by the bug your game would be reset i.e., you need to start from initial position.
+- Every time you get hit by the bug your game would be reset i.e., you need to start from initial position and  your moves get reset.
 - If you win the game you will get a life and so you can keep on playing.
 - Incase if you lose the game. Just reload the page and start playing again.
 - If you feel bug speed is too low, just refresh the game.[By pressing F5 or click reload button].
