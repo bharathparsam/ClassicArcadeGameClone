@@ -12,6 +12,7 @@
 - Every time you get hit by the bug your game would be reset i.e., you need to start from initial position.
 - If you win the game you will get a life and so you can keep on playing.
 - Incase if you lose the game. Just reload the page and start playing again.
+- If you feel bug speed is too low, just refresh the game.[By pressing F5 or click reload button].
 
 ## Setup
 
@@ -25,4 +26,3 @@
 ### Copyright
 
 > Game template from Udacity
-> Part of Frontend Web Developer Nano degree Program.
