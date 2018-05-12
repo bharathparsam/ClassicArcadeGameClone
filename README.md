@@ -14,6 +14,10 @@
 - Incase if you lose the game. Just reload the page and start playing again.
 - If you feel bug speed is too low, just refresh the game.[By pressing F5 or click reload button].
 - Speed of the bug is a random speed function.
+
+## Game Demo
+- You can view game demo in `DemoVideo ->Gamedemo.mp4 `
+
 ## Setup
 
 - You can just clone the game and run index.html file in your PC/LAPTOP.
