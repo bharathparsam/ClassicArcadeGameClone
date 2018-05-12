@@ -1,4 +1,4 @@
-### Arcade Game Clone
+# Arcade Game Clone
 
 ## Game Instructions
 
@@ -18,11 +18,11 @@
 - You can just clone the game and run index.html file in your PC/LAPTOP.
 - You can also download using download option.
 
-# Additional files
+### Additional files
 
 - Game video file is been added for your reference.
 
-# Copyright
+### Copyright
 
 > Game template from Udacity
 > Part of Frontend Web Developer Nano degree Program.
